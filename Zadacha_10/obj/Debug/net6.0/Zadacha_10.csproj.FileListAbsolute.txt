@@ -1,0 +1,15 @@
+/home/sasha/Рабочий стол/DZ_2/Zadacha_10/bin/Debug/net6.0/Zadacha_10
+/home/sasha/Рабочий стол/DZ_2/Zadacha_10/bin/Debug/net6.0/Zadacha_10.deps.json
+/home/sasha/Рабочий стол/DZ_2/Zadacha_10/bin/Debug/net6.0/Zadacha_10.runtimeconfig.json
+/home/sasha/Рабочий стол/DZ_2/Zadacha_10/bin/Debug/net6.0/Zadacha_10.dll
+/home/sasha/Рабочий стол/DZ_2/Zadacha_10/bin/Debug/net6.0/ref/Zadacha_10.dll
+/home/sasha/Рабочий стол/DZ_2/Zadacha_10/bin/Debug/net6.0/Zadacha_10.pdb
+/home/sasha/Рабочий стол/DZ_2/Zadacha_10/obj/Debug/net6.0/Zadacha_10.csproj.AssemblyReference.cache
+/home/sasha/Рабочий стол/DZ_2/Zadacha_10/obj/Debug/net6.0/Zadacha_10.GeneratedMSBuildEditorConfig.editorconfig
+/home/sasha/Рабочий стол/DZ_2/Zadacha_10/obj/Debug/net6.0/Zadacha_10.AssemblyInfoInputs.cache
+/home/sasha/Рабочий стол/DZ_2/Zadacha_10/obj/Debug/net6.0/Zadacha_10.AssemblyInfo.cs
+/home/sasha/Рабочий стол/DZ_2/Zadacha_10/obj/Debug/net6.0/Zadacha_10.csproj.CoreCompileInputs.cache
+/home/sasha/Рабочий стол/DZ_2/Zadacha_10/obj/Debug/net6.0/Zadacha_10.dll
+/home/sasha/Рабочий стол/DZ_2/Zadacha_10/obj/Debug/net6.0/ref/Zadacha_10.dll
+/home/sasha/Рабочий стол/DZ_2/Zadacha_10/obj/Debug/net6.0/Zadacha_10.pdb
+/home/sasha/Рабочий стол/DZ_2/Zadacha_10/obj/Debug/net6.0/Zadacha_10.genruntimeconfig.cache
