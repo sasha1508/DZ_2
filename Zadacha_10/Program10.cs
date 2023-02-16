@@ -4,7 +4,7 @@
 // 782 -> 8
 // 918 -> 1
 
-
+Console.Clear();
 Console.Write("Введи трёхзначное число: ");
 int Chislo = Convert.ToInt32(Console.ReadLine());
 if (Chislo < 100 || Chislo > 999) 
