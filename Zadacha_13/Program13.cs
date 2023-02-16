@@ -11,7 +11,14 @@ Console.Write("Введи семизначное число: ");
 int Chislo = Convert.ToInt32(Console.ReadLine());
 if (Chislo < 1000000 || Chislo > 9999999) 
 {
-    Console.Write("Введено не семизначное число");
+    if (Chislo < 100)
+    {
+        Console.Write("Третьей цифры нет. Введено не семизначное число");
+    }
+    else
+    {
+        Console.Write("Введено не семизначное число");
+    }
 }
 else
 {
